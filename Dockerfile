@@ -1,4 +1,4 @@
-FROM redis:3
+FROM redis:3.2.5-alpine
 
 MAINTAINER Rob Powell <rob.p.tec@gmail.com>
 
