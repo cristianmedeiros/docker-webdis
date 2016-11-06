@@ -12,7 +12,7 @@ To build the image
 
 To run the image
 
-`docker run -d -p 7379:7379 --name webdis robtec/webdis`
+`docker run -d -p 7379:7379 --name webdis cristianmedeiros/webdis`
 
 Test it out!!
 
